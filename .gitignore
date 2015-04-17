@@ -5,3 +5,7 @@
 Session.vim
 .netrwhist
 *~
+
+# Build directories
+css
+js
