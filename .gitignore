@@ -9,3 +9,6 @@ Session.vim
 # Build directories
 css
 js
+
+# OS X
+.DS_Store
