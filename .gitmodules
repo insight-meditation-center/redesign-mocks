@@ -1,3 +1,6 @@
 [submodule "imc-bootstrap-sass"]
 	path = imc-bootstrap-sass
 	url = git@github.com:insight-meditation-center/imc-bootstrap-sass.git
+[submodule "artwork"]
+	path = artwork
+	url = ./artwork
