@@ -12,3 +12,7 @@ js
 
 # OS X
 .DS_Store
+
+# Apache Digest password file
+.digest_pw
+
