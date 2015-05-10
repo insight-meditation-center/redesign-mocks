@@ -3,7 +3,6 @@ GEM
   specs:
     colorize (0.7.5)
     rake (10.4.2)
-    yui-compressor (0.12.0)
 
 PLATFORMS
   ruby
@@ -11,4 +10,3 @@ PLATFORMS
 DEPENDENCIES
   colorize
   rake
-  yui-compressor
