@@ -3,4 +3,4 @@
 	url = git@github.com:insight-meditation-center/imc-bootstrap-sass.git
 [submodule "artwork"]
 	path = artwork
-	url = ./artwork
+	url = git@github.com:insight-meditation-center/artwork.git
