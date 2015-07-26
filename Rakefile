@@ -1,5 +1,6 @@
 require 'colorize'
 
+desc 'Compile necessary assets and copy them to js/'
 task :build do
   puts 'Ensuring imc-bootstrap-sass submodule has dependencies installed...'.blue.bold
   exec_command('cd imc-bootstrap-sass && bundle install')
